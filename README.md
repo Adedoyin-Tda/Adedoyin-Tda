@@ -1,13 +1,22 @@
 ## Hi there 👋
 ### I'm Adedoyin Tolulope
-### **Data & Reporting Analyst | B.Sc. Applied Computer Science** 
+### **Data & Reporting Analyst | B.Sc. Applied Computer Science**
+📍*Winnipeg, MB, Canada*
 
 ---
 
 ## 🚀About Me
-I am a Winnipeg-based Data Analyst specializing in building high-integrity data systems. I focus on transforming complex data sets into actionalble business intelligence through automation and advanced visualization.
+I specialize in building high-integity data systems that transforms complex datasets into actionable business intelligence. My approach combinesa  strong technical foundation in computer science with a focus on automation and advance visualizatio to reduce operational risk.
 
 * 🔭**Currently:** Buliding automated financial reconciliation tools
+* ⚙️**Technical Focus:** Moving from descriptive reporting to predictive modeling.
+* 💼**Sector Experience:** Agriculture, Sales, Operations and Logistics
+
+---
+## 🛠️Technical Tookit
+|Category|Tools & Technoologies|
+| :--- | :--- |
+
 <!--
 **Adedoyin-Tda/Adedoyin-Tda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
