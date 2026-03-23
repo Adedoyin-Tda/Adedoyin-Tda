@@ -16,6 +16,7 @@ I specialize in building high-integity data systems that transforms complex data
 ## 🛠️Technical Tookit
 |Category|Tools & Technoologies|
 | :--- | :--- |
+|**Languages**| SQL(Addvanced), Python(Pandas,NumPy)|
 
 <!--
 **Adedoyin-Tda/Adedoyin-Tda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
