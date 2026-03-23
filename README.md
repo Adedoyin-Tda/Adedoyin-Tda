@@ -24,7 +24,7 @@ I specialize in building high-integrity data systems that transform complex data
 ---
 
 ## 📬Let's Connect!
-* **LinkedIn** [Adedoyin Tolulope] (https://www.linkedin.com/in/tolulope-adedoyin-a57b43220 )
+* **LinkedIn** [Adedoyin Tolulope] (https://www.linkedin.com/in/tolulope-adedoyin-a57b43220)
 * **Email:** [tadedoyin17@gmail.com](mailto:tadedoyin17@gmail.com)
 
 <!--
