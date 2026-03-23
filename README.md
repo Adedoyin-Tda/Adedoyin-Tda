@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏾
 ### I'm Adedoyin Tolulope
 ### **Data & Reporting Analyst | B.Sc. Applied Computer Science**
 📍*Winnipeg, MB, Canada*
