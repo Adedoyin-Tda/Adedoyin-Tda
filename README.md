@@ -7,7 +7,7 @@
 ## 🚀About Me
 I am a Winnipeg-based Data Analyst specializing in building high-integrity data systems. I focus on transforming complex data sets into actionalble business intelligence through automation and advanced visualization.
 
-* 🔭**Currently:** Buliding automated finaancial reconciliation tools
+* 🔭**Currently:** Buliding automated financial reconciliation tools
 <!--
 **Adedoyin-Tda/Adedoyin-Tda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
