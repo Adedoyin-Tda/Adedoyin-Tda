@@ -24,7 +24,7 @@ I specialize in building high-integrity data systems that transform complex data
 ---
 
 ## 📬Let's Connect!
-* **LinkedIn** [https://www.linkedin.com/in/tolulope-adedoyin-a57b43220](https://www.linkedin.com/in/tolulope-adedoyin-a57b43220)
+* **LinkedIn** [https://www.linkedin.com/in/tolulope-adedoyin-a57b43220](Profile)
 
 <!--
 **Adedoyin-Tda/Adedoyin-Tda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
