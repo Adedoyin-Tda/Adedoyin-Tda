@@ -1,5 +1,11 @@
 ## Hi there 👋
+### I'm Adedoyin Tolulope
+### **Data & Reporting Analyst | B.Sc. Applied Computer Science** 
 
+---
+
+## 🚀About Me
+I am a Winnipeg-based Data Analyst specializing in building high-integrity data systems. I focus on transforming complex data sets into actionalble business intelligence through automation and advanced visualization.
 <!--
 **Adedoyin-Tda/Adedoyin-Tda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
